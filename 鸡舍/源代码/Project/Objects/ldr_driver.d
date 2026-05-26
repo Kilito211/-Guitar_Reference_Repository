@@ -1,0 +1,34 @@
+.\objects\ldr_driver.o: ..\Drivers\src\ldr_driver.c
+.\objects\ldr_driver.o: ..\Drivers\inc\ldr_driver.h
+.\objects\ldr_driver.o: ..\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h
+.\objects\ldr_driver.o: ..\Libraries\CMSIS\CM3\CoreSupport\core_cm3.h
+.\objects\ldr_driver.o: D:\Program Files\Keil5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\ldr_driver.o: ..\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\system_stm32f10x.h
+.\objects\ldr_driver.o: ..\Apps\stm32f10x_conf.h
+.\objects\ldr_driver.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_adc.h
+.\objects\ldr_driver.o: ..\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h
+.\objects\ldr_driver.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_bkp.h
+.\objects\ldr_driver.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_can.h
+.\objects\ldr_driver.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_cec.h
+.\objects\ldr_driver.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_crc.h
+.\objects\ldr_driver.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dac.h
+.\objects\ldr_driver.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dbgmcu.h
+.\objects\ldr_driver.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dma.h
+.\objects\ldr_driver.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h
+.\objects\ldr_driver.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_flash.h
+.\objects\ldr_driver.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_fsmc.h
+.\objects\ldr_driver.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h
+.\objects\ldr_driver.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_i2c.h
+.\objects\ldr_driver.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_iwdg.h
+.\objects\ldr_driver.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_pwr.h
+.\objects\ldr_driver.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h
+.\objects\ldr_driver.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rtc.h
+.\objects\ldr_driver.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_sdio.h
+.\objects\ldr_driver.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_spi.h
+.\objects\ldr_driver.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_tim.h
+.\objects\ldr_driver.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h
+.\objects\ldr_driver.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_wwdg.h
+.\objects\ldr_driver.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\misc.h
+.\objects\ldr_driver.o: ..\Drivers\inc\adcx_driver.h
+.\objects\ldr_driver.o: ..\Drivers\inc\timer_driver.h
+.\objects\ldr_driver.o: D:\Program Files\Keil5\ARM\ARMCC\Bin\..\include\math.h
